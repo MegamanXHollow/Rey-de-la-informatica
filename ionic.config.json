@@ -1,0 +1,7 @@
+{
+  "name": "dual-apps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
